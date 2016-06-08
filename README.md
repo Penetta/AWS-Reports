@@ -11,7 +11,7 @@
 	. Count LOAD BALANCE <br>
 	. Count ELASTIC IP <br>
 	. Count KEY PAIRS <br>
-	. Count ALL AWS (Above) <br>	
+	. Count ALL AWS (Above) Send Email with report, image PrintScreen_send_email_example.png <br>	
 
 
 <b>Examples:</b>
