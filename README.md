@@ -26,9 +26,9 @@
     Exemplo:
  
 	1) OPTIONS 
-	    ./ec2-penetta.py -r us-east-1 -i YUYUQWMNBBMLZSDAS -k 3jk3ioueqwehkl -o scan_ec2
-	    ./ec2-penetta.py -r us-east-1 -i YUYUQWMNBBMLZSDAS -k 3jk3ioueqwehkl -o scan_rds 
-	    ./ec2-penetta.py -r us-east-1 -i YUYUQWMNBBMLZSDAS -k 3jk3ioueqwehkl -o scan_s3
+	    ./aws_scan_report.py -r us-east-1 -i YUYUQWMNBBMLZSDAS -k 3jk3ioueqwehkl -o scan_ec2
+	    ./aws_scan_report.py -r us-east-1 -i YUYUQWMNBBMLZSDAS -k 3jk3ioueqwehkl -o scan_rds 
+	    ./aws_scan_report.py -r us-east-1 -i YUYUQWMNBBMLZSDAS -k 3jk3ioueqwehkl -o scan_s3
 
 
 For more information, my contact: eduardo@penetta.com
