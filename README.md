@@ -31,6 +31,12 @@
 	    ./aws_scan_report.py -r us-east-1 -i YUYUQWMNBBMLZSDAS -k 3jk3ioueqwehkl -o scan_s3
 
 
+<b> Example of email send </b>
+
+![printscreen_send_email_example](https://cloud.githubusercontent.com/assets/16126831/15899153/2da53012-2d71-11e6-8942-307684c3137c.PNG)
+
+
+
 For more information, my contact: eduardo@penetta.com
 
 Thanks & regards
